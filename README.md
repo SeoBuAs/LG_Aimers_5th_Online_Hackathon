@@ -1,1 +1,1 @@
-# LG-Aimers-5th-Online-Hackathon
+# LG_Aimers_5th_Online_Hackathon
